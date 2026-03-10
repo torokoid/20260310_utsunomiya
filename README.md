@@ -207,6 +207,9 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZIGVhpNI8tY?si=-3x2WqyMKVV3vwlR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
+<h2><span class="yellow">ひさしぶりの雪で、ワンコも大はしゃぎ<br>画像クリックで動画再生します↓</span></h2>
+<a href="https://youtube.com/shorts/HNXeRxu4rsM?feature=share" target="_blank"><img src="20260310_aki.png" alt="サンプル画像" class="responsive-media"></a>
+
 <!--
 <h2><span class="yellow">今回の撮影範囲は、おおむね赤枠のエリア</span></h2>
 <a href="20260228_059.PNG" target="_blank"><img src="20260228_059.PNG" alt="サンプル画像" class="responsive-media"></a>
